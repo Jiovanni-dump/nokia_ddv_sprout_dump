@@ -1,0 +1,14 @@
+# m690-user 11 RKQ1.210607.001 00WW_3_690_SP07 release-keys
+- manufacturer: hmd global
+- platform: sdm660
+- codename: DDV_sprout
+- flavor: m690-user
+- release: 11
+- id: RKQ1.210607.001
+- incremental: 00WW_3_690_SP07
+- tags: release-keys
+- fingerprint: Nokia/Daredevil_00WW/DDV_sprout:11/RKQ1.210607.001/00WW_3_69G:user/release-keys
+- is_ab: true
+- brand: Nokia
+- branch: m690-user-11-RKQ1.210607.001-00WW_3_690_SP07-release-keys
+- repo: nokia_ddv_sprout_dump
